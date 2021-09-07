@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\Coisas do Matheus\Cursos Udemy\Curso Java\Aulas\Seção 10 - memoria, arrays e listas\Aula 2\.metadata\.plugins\org.eclipse.jdt.core
+1506730008.index
+3703472708.index

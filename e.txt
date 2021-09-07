@@ -1,0 +1,22 @@
+Scanner sc = new Scanner (System.in);
+		
+		Estudante estudante = new Estudante();
+		
+		estudante.a = sc.nextDouble();
+		estudante.b = sc.nextDouble();
+		estudante.c = sc.nextDouble();
+		
+		double resultado = estudante.conta();
+		
+		double reprovado = estudante.reprovado();
+		
+		if (resultado >= 60) {
+			System.out.println("Resultado final: " + resultado);
+			System.out.println("APROVADO");
+		}
+		else {
+			System.out.println("Resultado final: " + resultado);
+			System.out.println("Reprovado");
+			System.out.println("Pontuação restante: " + reprovado);
+
+		}

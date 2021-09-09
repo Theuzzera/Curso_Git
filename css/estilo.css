@@ -1,0 +1,29 @@
+body {
+	background: url('arquivos/fundo2.png');
+}
+
+span {
+	font-weight: bold;
+}
+#principal {
+	width: 920px;
+	margin: auto;
+}
+
+#logo {
+	padding: 15px;
+}
+
+#link {
+	float: right;
+	padding-top: 25px
+}
+
+#capa {
+	padding: 5px;
+}
+
+.rodape {
+	text-align: center;
+	font-weight: bold;
+}
